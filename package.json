@@ -1,0 +1,22 @@
+{
+  "name": "geradorcurriculo",
+  "version": "0.1.0",
+  "description": "Bakcend do gerador de curriculo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MarcosPLance/GeradorCurriculo-back-.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MarcosPLance/GeradorCurriculo-back-/issues"
+  },
+  "homepage": "https://github.com/MarcosPLance/GeradorCurriculo-back-#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
